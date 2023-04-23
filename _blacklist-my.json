@@ -10,4 +10,4 @@
 			// too low profit
 			"(BNT|QNT)/.*",
 			// too shooting
-			"(OG|POLYX)/.*",
+			"(OG|POLYX|SXP)/.*",
