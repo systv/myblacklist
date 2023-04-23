@@ -1,12 +1,12 @@
 			// BLACKLIST - MY
 			"(KLAY|WEMIX|BTT|XEC|BNX|LUNA|LUNC|PEPE)/.*",
-			"(ARPA|SFP|TKO|POWR|ALBT|HI.*|HIVE|ATM|ARNM|MAN|FET|PHB|EFX|REVU|HIFI)/.*",
+			"(ARPA|SFP|TKO|POWR|ALBT|HIVE|ATM|ARNM|MAN|FET|PHB|EFX|REVU|HIFI|IMX)/.*",
 			"(EOSC|HIENS3|DYDX|ONSTON|GMM|TRX|SON|ROSN|MARS4|WELL|HNT|ERTHA|GEM|HEART|REAP|DYP)/.*",
 			"(LINA|MINA|UNB)/.*",
+			// delisted
+			"(YF.*|HI.*)/.*",
+			"(AION)/.*",
 			// too low profit
-			"(IMX|BNT|QNT)/.*",
+			"(BNT|QNT)/.*",
 			// too shooting
 			"(OG|POLYX)/.*",
-			// delisted
-			"(YF.*|AION)/.*",
-			
