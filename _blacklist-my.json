@@ -1,3 +1,4 @@
+			// too shooting
 			// BLACKLIST - MY
 			"(BTT|BNX|COCOS)/.*",
 			"(KLAY|WEMIX|XEC|TRX|LUNA|LUNC|PEPE)/.*",
@@ -9,5 +10,3 @@
 			"(AION)/.*",
 			// too low profit
 			"(BNT|QNT)/.*",
-			// too shooting
-			"(OG|POLYX|SXP|CTSI)/.*",
