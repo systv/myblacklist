@@ -7,6 +7,6 @@
 			"(LINA|MINA|UNB)/.*",
 			// delisted
 			"(YF.*|HI.*)/.*",
-			"(AION|VGX)/.*",
+			"(AION)/.*",
 			// too low profit
 			"(BNT|QNT)/.*",
